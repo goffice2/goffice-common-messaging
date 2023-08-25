@@ -1,0 +1,2 @@
+# goffice-common-messaging
+
